@@ -1,0 +1,78 @@
+{
+  "titulo": "BORRADOR FINAL",
+  "subtitulo": "Discurso de la Revolución Bolivariana — Versión Definitiva",
+  "bloques": [
+    {
+      "id": "soberania",
+      "numero": "I",
+      "titulo": "Ni un yanqui en suelo venezolano",
+      "ley": "Doctrina de Defensa Nacional / \"Guerra de todo el pueblo\", 2005",
+      "fecha_original": "2005-04-17",
+      "texto_antes": "Váyanse al carajo, yanquis de mierda, que aquí hay un pueblo digno. Aquí están los hijos de Bolívar, de Guaicaipuro, de Zamora. Si el imperialismo norteamericano osa poner un pie en esta tierra sagrada, tendrá que pasar primero por encima de los cadáveres de millones de venezolanos.",
+      "texto_despues": "La soberanía no se negocia. La patria no se entrega.",
+      "revisiones": [
+        {
+          "fecha": "2026-01-03",
+          "noticia_titular": "3 de enero de 2026 — Fuerzas especiales de Estados Unidos capturan a Nicolás Maduro en Caracas.",
+          "noticia_cuerpo": "150 aeronaves militares participaron en la Operación Resolución Absoluta. Maduro y Cilia Flores fueron extraídos en helicóptero desde el Palacio de Miraflores en la madrugada.",
+          "fuente_nombre": "Reuters",
+          "fuente_url": ""
+        }
+      ]
+    },
+    {
+      "id": "presos",
+      "numero": "II",
+      "titulo": "La patria no encarcela: protege",
+      "ley": "Ley Constitucional Antibloqueo / ANC, 2017–2020",
+      "fecha_original": "2017-08-04",
+      "texto_antes": "La Revolución Bolivariana no tiene presos políticos. Tiene ciudadanos que eligieron ponerse al servicio del fascismo, del golpismo, del imperialismo. La ley es igual para todos. Quien conspira contra el pueblo, responde ante el pueblo.",
+      "texto_despues": "La patria no encarcela: protege. Y seguirá protegiéndose de quienes quieren destruirla desde adentro.",
+      "revisiones": [
+        {
+          "fecha": "2026-02-19",
+          "noticia_titular": "19 de febrero de 2026 — La Asamblea Nacional aprueba la Ley de Amnistía.",
+          "noticia_cuerpo": "El mismo Parlamento que legisló durante años para encarcelar opositores aprueba ahora su liberación. Foro Penal advierte que al menos 400 presos políticos quedan excluidos. A la fecha de hoy, 473 personas permanecen detenidas.",
+          "fuente_nombre": "AP News",
+          "fuente_url": ""
+        }
+      ]
+    },
+    {
+      "id": "misiones",
+      "numero": "III",
+      "titulo": "Las Misiones son eternas",
+      "ley": "Decretos de Misiones Sociales, 2003–2012",
+      "fecha_original": "2003-07-08",
+      "texto_antes": "El Estado venezolano llegará donde el mercado nunca llegó. Nuestras Misiones son la prueba de que la Revolución no es un discurso: es salud en los barrios, es educación para los que nunca tuvieron escuela, es la presencia permanente e inquebrantable del pueblo organizado.",
+      "texto_despues": "Las Misiones no son un programa de gobierno. Son la patria misma hecha institución.",
+      "revisiones": [
+        {
+          "fecha": "2026-02-16",
+          "noticia_titular": "16 de febrero de 2026 — Delcy Rodríguez ordena el cierre de siete entes públicos chavistas.",
+          "noticia_cuerpo": "Entre las instituciones disueltas figura el Centro Estratégico de Seguridad y Protección de la Patria (Cesppa). El gobierno interino avanza en el desmantelamiento del aparato institucional construido durante 25 años de chavismo.",
+          "fuente_nombre": "El País",
+          "fuente_url": ""
+        }
+      ]
+    },
+    {
+      "id": "petroleo",
+      "numero": "IV",
+      "titulo": "El petróleo sagrado",
+      "ley": "Ley Orgánica de Hidrocarburos, 2001",
+      "fecha_original": "2001-11-13",
+      "texto_antes": "Declaramos ante la historia y ante los pueblos del mundo que el petróleo venezolano es, ha sido y será eternamente de Venezuela. PDVSA no es una empresa: es la columna vertebral de la Revolución, el corazón que late en el pecho de cada venezolano. Jamás —¡jamás!— permitiremos que el capital extranjero ponga sus manos imperialistas sobre un solo barril de nuestra soberanía.",
+      "texto_despues": "El que quiera petróleo venezolano, que venga a rogárnoslo de rodillas.",
+      "revisiones": [
+        {
+          "fecha": "2026-01-29",
+          "noticia_titular": "29 de enero de 2026 — La Asamblea Nacional aprueba por unanimidad reforma que abre el petróleo venezolano al capital privado extranjero.",
+          "noticia_cuerpo": "El Parlamento chavista permitirá que empresas como Chevron, Shell y Repsol comercialicen crudo venezolano directamente, sin pasar por PDVSA. \"Solo cosas buenas vendrán\", celebró Jorge Rodríguez desde la presidencia de la Asamblea.",
+          "fuente_nombre": "Bloomberg",
+          "fuente_url": ""
+        }
+      ]
+    }
+  ]
+}

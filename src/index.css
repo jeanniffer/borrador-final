@@ -1,0 +1,33 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --paper: #f5f4f0;
+  --ink: #1a1a1a;
+  --ink-light: #555;
+  --red: #c0392b;
+  --blue-track: #2563eb;
+  --yellow-highlight: #fff176;
+  --shadow: rgba(0, 0, 0, 0.15);
+  --font-doc: 'IBM Plex Sans', Arial, sans-serif;
+  --font-mono: 'IBM Plex Sans', Arial, sans-serif;
+}
+
+html, body {
+  min-height: 100vh;
+  background: #1a9aad;
+  font-family: var(--font-doc);
+  color: var(--ink);
+  overflow: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--yellow-highlight);
+}
